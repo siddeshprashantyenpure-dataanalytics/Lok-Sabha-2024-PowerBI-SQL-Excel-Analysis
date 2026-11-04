@@ -1,0 +1,544 @@
+constituency,const_no,leading_candidate,trailing_candidate,margin,status,state_id
+Chandigarh,1,Manish Tewari,Sanjay Tandon,2504,Result Declared,U02
+Puducherry,1,Ve Vaithilingam,A Namassivayam,136516,Result Declared,U07
+Ajmer,13,Bhagirath Choudhary,Ramchandra Choudhary,329991,Result Declared,S20
+Alwar,8,Bhupender Yadav,Lalit Yadav,48282,Result Declared,S20
+Banswara,20,Raj Kumar Roat,Mahendrajeetsingh Malviya,247054,Result Declared,S20
+Barmer,17,Ummeda Ram Beniwal,Ravindra Singh Bhati,118176,Result Declared,S20
+Bharatpur,9,Sanjna Jatav,Ramswaroop Koli,51983,Result Declared,S20
+Bhilwara,23,Damodar Agarwal,C P Joshi,354606,Result Declared,S20
+Bikaner,2,Arjun Ram Meghwal,Govindram Meghwal,55711,Result Declared,S20
+Chittorgarh,21,Chandra Prakash Joshi,Anjana Udailal,389877,Result Declared,S20
+Churu,3,Rahul Kaswan,Devendra Jhajharia,72737,Result Declared,S20
+Dausa,11,Murari Lal Meena,Kanhaiya Lal Meena,237340,Result Declared,S20
+Ganganagar,1,Kuldeep Indora,Hena Shahab,88153,Result Declared,S20
+Jaipur,7,Manju Sharma,Pratap Singh Khachariyawas,331767,Result Declared,S20
+Jaipur Rural,6,Rao Rajendra Singh,Anil Chopra,1615,Result Declared,S20
+Jalore,18,Lumbaram,Vaibhav Gehlot,201543,Result Declared,S20
+Jhalawar-Baran,25,Dushyant Singh,Urmila Jain Bhaya,370989,Result Declared,S20
+Jhunjhunu,4,Brijendra Singh Ola,Shubhkaran Choudhary,18235,Result Declared,S20
+Jodhpur,16,Gajendra Singh Shekhawat,Karan Singh Uchiyarda,115677,Result Declared,S20
+Karauli-Dholpur,10,Bhajan Lal Jatav,Indu Devi,98945,Result Declared,S20
+Kota,24,Om Birla,Prahlad Gunjal,41974,Result Declared,S20
+Nagaur,14,Hanuman Beniwal,Jyoti Mirdha,42225,Result Declared,S20
+Koppal,8,K. Rajashekar Basavaraj Hitnal,Dr . Basavaraj. K. Sharanappa,46357,Result Declared,S10
+Mandya,20,H.D. Kumaraswamy,Venkataramane Gowda (Star Chandru),284620,Result Declared,S10
+Mysore,21,Yaduveer Krishnadatta Chamaraja Wadiyar,M. Lakshmana,139262,Result Declared,S10
+Raichur,6,G. Kumar Naik.,Raja Amareshwara Naik.,79781,Result Declared,S10
+Shimoga,14,B.Y.Raghavendra,Geetha Shivarajkumar,243715,Result Declared,S10
+Tumkur,19,V. Somanna,S.P. Muddahanumegowda,175594,Result Declared,S10
+Udupi Chikmagalur,15,Kota Srinivas Poojary,K. Jayaprakash Hegde,259175,Result Declared,S10
+Uttara Kannada,12,Vishweshwar Hegde Kageri,Dr. Anjali Nimbalkar,337428,Result Declared,S10
+Adilabad,1,Godam Nagesh,Athram Suguna,90652,Result Declared,S29
+Bhongir,14,Chamala Kiran Kumar Reddy,Dr. Boora Narsaiah Goud,222170,Result Declared,S29
+Chevella,10,Konda Vishweshwar Reddy,Dr Gaddam Ranjith Reddy,172897,Result Declared,S29
+Hyderabad,9,Asaduddin Owaisi,Madhavi Latha Kompella,338087,Result Declared,S29
+Karimnagar,3,Bandi Sanjay Kumar,Velchala Rajender Rao,225209,Result Declared,S29
+Khammam,17,Ramasahayam Raghuram Reddy,Nama Nageswara Rao,467847,Result Declared,S29
+Mahabubabad,16,Balram Naik Porika,Kavitha Maloth,349165,Result Declared,S29
+Mahbubnagar,11,Aruna. D. K,Challa Vamshi Chand Reddy,4500,Result Declared,S29
+Malkajgiri,7,Eatala Rajender,Patnam Suneetha Mahender Reddy,391475,Result Declared,S29
+Medak,6,Madhavaneni Raghunandan Rao,Neelam Madhu,39139,Result Declared,S29
+Nagarkurnool,12,Dr.Mallu Ravi,Bharath  Prasad Pothuganti,94414,Result Declared,S29
+Nalgonda,13,Kunduru Raghuveer,Saidi Reddy Shanampudi,559905,Result Declared,S29
+Nizamabad,4,Arvind Dharmapuri,Jeevanreddy Thatiparthi,109241,Result Declared,S29
+Peddapalle,2,Vamsi Krishna Gaddam,Srinivas Gomase,131364,Result Declared,S29
+Secunderabad,8,G. Kishan Reddy,Danam Nagender,49944,Result Declared,S29
+Warangal,15,Kadiyam Kavya,Aroori Ramesh,220339,Result Declared,S29
+Zahirabad,5,Suresh Kumar Shetkar,B. B. Patil,46188,Result Declared,S29
+Andaman & Nicobar Islands,1,Bishnu Pada Ray,Kuldeep Rai Sharma,24396,Result Declared,U01
+Maharajganj,19,"Janardan Singh ""Sigriwal""",Aakash Kumar Singh,102651,Result Declared,S04
+Munger,28,Rajiv Ranjan Singh Alias Lalan Singh,Kumari Anita,80870,Result Declared,S04
+Muzaffarpur,15,Raj Bhushan Choudhary,Ajay Nishad,234927,Result Declared,S04
+Nalanda,29,Kaushalendra Kumar,Dr. Sandeep Saurav,169114,Result Declared,S04
+Nawada,39,Vivek Thakur,Shrawan Kumar,67670,Result Declared,S04
+Paschim Champaran,2,Dr.Sanjay Jaiswal,Madan Mohan Tiwari,136568,Result Declared,S04
+Patliputra,31,Misha Bharti,Ram Kripal Yadav,85174,Result Declared,S04
+Patna Sahib,30,Ravi Shankar Prasad,Anshul Avijit,153846,Result Declared,S04
+Purnia,12,Rajesh Ranjan Alias Pappu Yadav,Santosh Kumar,23847,Result Declared,S04
+Purvi Champaran,3,Radha Mohan Singh,Dr Rajesh Kumar,88287,Result Declared,S04
+Samastipur,23,Shambhavi,Sunny Hazari,187251,Result Declared,S04
+Saran,20,Rajiv Pratap Rudy,Rohini Acharya,13661,Result Declared,S04
+Sasaram,34,Manoj Kumar,Shivesh Kumar,19157,Result Declared,S04
+Sheohar,4,Lovely Anand,Ritu Jaiswal,29143,Result Declared,S04
+Sitamarhi,5,Devesh Chandra Thakur,Arjun Ray,51356,Result Declared,S04
+Siwan,18,Vijaylakshmi Devi,Hena Shahab,92857,Result Declared,S04
+Supaul,8,Dileshwar Kamait,Chandrahas Chaupal,169803,Result Declared,S04
+Ujiarpur,22,Nityanand Rai,Alok Kumar Mehta,60102,Result Declared,S04
+Vaishali,16,Veena Devi,Vijay Kumar Shukla,89634,Result Declared,S04
+Valmiki Nagar,1,Sunil Kumar,Deepak Yadav,98675,Result Declared,S04
+Hathras,16,Anoop Pradhan Balmiki,Jasveer Valmiki,247318,Result Declared,S24
+Jalaun,45,Narayan Das Ahirwar,Bhanu Pratap Singh Verma,53898,Result Declared,S24
+Jaunpur,73,Babu Singh Kushwaha,Kripashankar Singh,99335,Result Declared,S24
+Jhansi,46,Anurag Sharma,"Pradeep Jain ""Aditya""",102614,Result Declared,S24
+Kairana,2,Iqra Choudhary,Pradeep Kumar,69116,Result Declared,S24
+Kaiserganj,57,Karan Bhushan Singh,Bhagat Ram,148843,Result Declared,S24
+Kannauj,42,Akhilesh Yadav,Subrat Pathak,170922,Result Declared,S24
+Kanpur,43,Ramesh Awasthi,Alok Misra,20968,Result Declared,S24
+Kaushambi,50,Pushpendra Saroj,Vinod Kumar Sonkar,103944,Result Declared,S24
+Kheri,28,Utkarsh Verma 'Madhur',Ajay Kumar,34329,Result Declared,S24
+Kushi Nagar,65,Vijay Kumar Dubay,Ajay Pratap Singh Urf Pintu Saithwar,81790,Result Declared,S24
+Lalganj,68,Daroga Prasad Saroj,Neelam Sonker,115023,Result Declared,S24
+Lucknow,35,Raj Nath Singh,Ravidas Mehrotra,135159,Result Declared,S24
+Machhlishahr,74,Priya Saroj,Bholanath (B.P. Saroj),35850,Result Declared,S24
+Maharajganj,63,Pankaj Chaudhary,Virendra Chaudhary,35451,Result Declared,S24
+Mainpuri,21,Dimple Yadav,Jayveer Singh,221639,Result Declared,S24
+Mathura,17,Hemamalini Dharmendra Deol,Mukesh Dhangar,293407,Result Declared,S24
+Meerut,10,Arun Govil,Sunita Verma,10585,Result Declared,S24
+Mirzapur,79,Anupriya Patel,Ramesh Chand Bind,37810,Result Declared,S24
+Misrikh,32,Ashok Kumar Rawat,Sangita Rajvanshi,33406,Result Declared,S24
+Alipurduars,2,Manoj Tigga,Prakash Chik Baraik,75447,Result Declared,S25
+Arambagh,29,Bag Mitali,Arup Kanti Digar,6399,Result Declared,S25
+Asansol,40,Shatrughan Prasad Sinha,Surendrajeet Singh Ahluwalia,59564,Result Declared,S25
+Baharampur,10,Pathan Yusuf,Adhir Ranjan Chowdhury,85022,Result Declared,S25
+Balurghat,6,Sukanta Majumdar,Biplab Mitra,10386,Result Declared,S25
+Bangaon,14,Shantanu Thakur,Biswajit Das S/O Late Bijay Krishna Das,73693,Result Declared,S25
+Bankura,36,Arup Chakraborty,Dr. Subhas Sarkar,32778,Result Declared,S25
+Barasat,17,Kakoli Ghosh Dastidar,Swapan Majumder,114189,Result Declared,S25
+Bardhaman Purba,38,Dr. Sharmila Sarkar,Asim Kumar Sarkar,160572,Result Declared,S25
+Bardhaman-Durgapur,39,Azad Kirti Jha,Dilip Ghosh,137981,Result Declared,S25
+Barrackpur,15,Partha Bhowmick,Arjun Singh,64438,Result Declared,S25
+Basirhat,18,Sk Nurul Islam,Rekha Patra,333547,Result Declared,S25
+Birbhum,42,Satabdi Roy,Debtanu Bhattacharya,197650,Result Declared,S25
+Bishnupur,37,Khan Saumitra,Sujata Mondal,5567,Result Declared,S25
+Bolpur,41,Asit Kumar Mal,Piya Saha,327253,Result Declared,S25
+Coochbehar,1,Jagadish Chandra Barma Basunia,Nisith Pramanik,39250,Result Declared,S25
+Darjeeling,4,Raju Bista,Gopal Lama,178525,Result Declared,S25
+Diamond Harbour,21,Abhishek Banerjee,Abhijit Das (Bobby),710930,Result Declared,S25
+Dum Dum,16,Sougata Ray,Silbhadra Datta,70660,Result Declared,S25
+Ghatal,32,Adhikari Deepak (Dev),Dr. Hiranmoy Chattopadhyaya,182868,Result Declared,S25
+Hamirpur,3,Anurag Singh Thakur,Satpal Raizada,182357,Result Declared,S08
+Kangra,1,Dr Rajeev Bhardwaj,Anand Sharma,251895,Result Declared,S08
+Mandi,2,Kangna Ranaut,Vikramaditya Singh,74755,Result Declared,S08
+Shimla,4,Suresh Kumar Kashyap,Vinod Sultanpuri,91451,Result Declared,S08
+Bastar,10,Mahesh Kashyap,Kawasi Lakhma,55245,Result Declared,S26
+Bilaspur,5,Tokhan Sahu,Devendra Yadav,164558,Result Declared,S26
+Durg,7,Vijay Baghel,Rajendra Sahu,438226,Result Declared,S26
+Janjgir-Champa,3,Kamlesh Jangde,Dr. Shivkumar Dahariya,60000,Result Declared,S26
+Kanker,11,Bhojraj Nag,Biresh Thakur,1884,Result Declared,S26
+Korba,4,Jyotsna Charandas Mahant,Saroj Pandey,43283,Result Declared,S26
+Mahasamund,9,Roop Kumari Choudhary,Tamradhwaj Sahu,145456,Result Declared,S26
+Raigarh,2,Radheshyam Rathiya,Dr. Menka Devi Singh,240391,Result Declared,S26
+Raipur,8,Brijmohan Agrawal,Vikas Upadhyay,575285,Result Declared,S26
+Rajnandgaon,6,Santosh Pandey,Bhupesh Baghel,44411,Result Declared,S26
+Surguja,1,Chintamani Maharaj,Shashi Singh Koram,64822,Result Declared,S26
+Tripura East,2,Kriti Devi Debbarman,Rajendra Reang,486819,Result Declared,S23
+Tripura West,1,Biplab Kumar Deb,Asish Kumar Saha,611578,Result Declared,S23
+Lakshadweep,1,Muhammed Hamdullah Sayeed,Mohammed Faizal Pp,2647,Result Declared,U06
+Tamluk,30,Abhijit Gangopadhyay,Debangshu Bhattacharya,77733,Result Declared,S25
+Uluberia,26,Sajda Ahmed,Arunuday Paulchowdhury,218673,Result Declared,S25
+Mizoram,1,Richard Vanlalhmangaiha,K Vanlalvena,68288,Result Declared,S16
+Arakkonam,7,S Jagathratchakan,L Vijayan,306559,Result Declared,S22
+Arani,12,Tharaniventhan M S,"Gajendran, G.V.",208766,Result Declared,S22
+Chennai Central,4,Dayanidhi Maran,Vinoj,244689,Result Declared,S22
+Chennai North,2,Dr.Kalanidhi Veeraswamy,R. Manohar,339222,Result Declared,S22
+Chennai South,3,T.Sumathy (Alias) Thamizhachi Thangapandian,Dr.Tamilisai Soundararajan,225945,Result Declared,S22
+Chidambaram,27,Thirumaavalavan Thol,Chandrahasan M,103554,Result Declared,S22
+Coimbatore,20,Ganapathy Rajkumar P,Annamalai K,118068,Result Declared,S22
+Cuddalore,26,M.K. Vishnuprasad,P. Sivakozhundu,185896,Result Declared,S22
+Dharmapuri,10,Mani. A.,Sowmiya Anbumani,21300,Result Declared,S22
+Dindigul,22,Sachithanantham R,Mohamed Mubarak M A,443821,Result Declared,S22
+Erode,17,K E Prakash,Ashok Kumar,236566,Result Declared,S22
+Kallakurichi,14,Malaiyarasan D,Kumaraguru R,53784,Result Declared,S22
+Kancheepuram,6,Selvam. G,Rajasekar. E,221473,Result Declared,S22
+Kanniyakumari,39,Vijayakumar (Alias) Vijay Vasanth,Radhakrishnan P,179907,Result Declared,S22
+Karur,23,Jothimani. S,Thangavel. L,166816,Result Declared,S22
+Krishnagiri,9,Gopinath K,Jayaprakash V,192486,Result Declared,S22
+Madurai,32,Venkatesan S,Raama Sreenivasan,209409,Result Declared,S22
+Mayiladuthurai,28,Sudha R,Babu P,271183,Result Declared,S22
+Nagapattinam,29,Selvaraj V,Dr Sursith Sankar G,208957,Result Declared,S22
+Namakkal,16,Matheswaran V S,Tamilmani S,29112,Result Declared,S22
+Amalapuram,7,G M Harish (Balayogi),Rapaka Varaprasada Rao,342196,Result Declared,S01
+Anakapalle,5,C.M.Ramesh,Budi Mutyala Naidu,296530,Result Declared,S01
+Ananthapur,19,Ambica G Lakshminarayana Valmiki,Malagundla Sankar Narayana,188555,Result Declared,S01
+Araku,1,Gumma Thanuja Rani,Kothapalli Geetha,50580,Result Declared,S01
+Bapatla,15,Krishna Prasad Tenneti,Nandigam Suresh Babu,208031,Result Declared,S01
+Chittoor,25,Daggumalla Prasada Rao,Reddeppa.N .,220479,Result Declared,S01
+Eluru,10,Putta Mahesh Kumar,Karumuri Sunil Kumar,181857,Result Declared,S01
+Guntur,13,Dr Chandra Sekhar Pemmasani,Kilari Venkata Rosaiah,344695,Result Declared,S01
+Hindupur,20,B K Parthasarathi,J Shantha,132427,Result Declared,S01
+Kadapa,21,Y. S. Avinash Reddy,Chadipiralla Bhupesh Subbarami Reddy,62695,Result Declared,S01
+Kakinada,6,Tangella Uday Srinivas (Tea Time Uday),Chalamalasetty Sunil,229491,Result Declared,S01
+Kurnoolu,18,Bastipati Nagaraju Panchalingala,B Y Ramaiah,111298,Result Declared,S01
+Machilipatnam,11,Balashowry Vallabhaneni,Simhadri Chandra Sekhar Rao,223179,Result Declared,S01
+Nandyal,17,Dr Byreddy Shabari,Pocha Brahmananda Reddy,111975,Result Declared,S01
+Narsapuram,9,Bhupathi Raju Srinivasa Varma (B.J.P.Varma),Umabala Guduri,276802,Result Declared,S01
+Narsaraopet,14,Lavu Srikrishna Devarayalu,Anil Kumar Poluboina,159729,Result Declared,S01
+Nellore,22,Prabhakar Reddy Vemireddy,Venumbaka Vijayasai Reddy,245902,Result Declared,S01
+Ongole,16,Magunta Sreenivasulu Reddy,Dr Chevireddy Bhaskar Redd,50199,Result Declared,S01
+Rajahmundry,8,Daggubati Purandheshwari,Dr. Guduri Srinivas,239139,Result Declared,S01
+Rajampet,24,P V Midhun Reddy,Nallari Kiran Kumar Reddy,76071,Result Declared,S01
+Inner Manipur,1,Angomcha Bimol Akoijam,Thounaojam Basanta Kumar Singh,109801,Result Declared,S14
+Outer Manipur,2,Alfred Kanngam S Arthur,Kachui Timothy Zimik,85418,Result Declared,S14
+Agra,18,Prof S P Singh Baghel,Suresh Chand Kardam,271294,Result Declared,S24
+Akbarpur,44,Devendra Singh Alias Bhole Singh,Rajaram Pal,44345,Result Declared,S24
+Aligarh,15,Satish Kumar Gautam,Bijendra Singh,15647,Result Declared,S24
+Allahabad,52,Ujjwal Raman Singh,Neeraj Tripathi,58795,Result Declared,S24
+Ambedkar Nagar,55,Lalji Verma,Ritesh Pandey,137247,Result Declared,S24
+Amethi,37,Kishori Lal,Smriti Irani,167196,Result Declared,S24
+Amroha,9,Kanwar Singh Tanwar,Kunwar Danish Ali,28670,Result Declared,S24
+Aonla,24,Neeraj Maurya,Dharmendra Kashyap,15969,Result Declared,S24
+Azamgarh,69,Dharmendra Yadav,Dinesh Lal Yadav Nirahua,161035,Result Declared,S24
+Badaun,23,Aditya Yadav,Durvijay Singh Shakya,34991,Result Declared,S24
+Baghpat,11,Dr Rajkumar Sangwan,Amarpal,159459,Result Declared,S24
+Baharaich,56,Anand Kumar,Ramesh Chandra,64227,Result Declared,S24
+Ballia,72,Sanatan Pandey,Neeraj Shekhar,43384,Result Declared,S24
+Banda,48,Krishna Devi Shivshanker Patel,R. K. Singh Patel,71210,Result Declared,S24
+Bansgaon,67,Kamlesh Paswan,Sadal Prasad,3150,Result Declared,S24
+Barabanki,53,Tanuj Punia,Rajrani Rawat,215704,Result Declared,S24
+Bareilly,25,Chhatra Pal Singh Gangwar,Praveen Singh Aron,34804,Result Declared,S24
+Basti,61,Ram Prasad Chaudhary,Harish Chandra Alias Harish Dwivedi,100994,Result Declared,S24
+Bhadohi,78,Dr. Vinod Kumar Bind,Laliteshpati Tripathi,44072,Result Declared,S24
+Bijnor,4,Chandan Chauhan,Deepak,37508,Result Declared,S24
+Balaghat,15,Bharti Pardhi,Samrat Ashok Singh Saraswar,174512,Result Declared,S12
+Betul,29,Durgadas (D. D.) Uikey,Ramu Tekam,379761,Result Declared,S12
+Bhind,2,Sandhya Ray,Phool Singh Baraiya,64840,Result Declared,S12
+Bhopal,19,Alok Sharma,Advocate Arun Shrivastava,501499,Result Declared,S12
+Chhindwara,16,Bunty Vivek Sahu,Nakul Kamalnath,113618,Result Declared,S12
+Damoh,7,Rahul Singh Lodhi,Tarbar Singh Lodhi (Bantu Bhaiya),406426,Result Declared,S12
+Dewas,21,Mahendra Singh Solanky,Rajendra Radhakishan Malviya,425225,Result Declared,S12
+Dhar,25,Savitri Thakur,Radheshyam Muvel,218665,Result Declared,S12
+Guna,4,Jyotiraditya M. Scindia,Yadvendra Rao Deshraj Singh,540929,Result Declared,S12
+Gwalior,3,Bharat Singh Kushwah,Praveen Pathak,70210,Result Declared,S12
+Hoshangabad,17,Darshan Singh Choudhary,Sanjay Sharma Sanju Bhaiya,431696,Result Declared,S12
+Indore,26,Shankar Lalwani,Sanjay S/O Lakshman Solanki,1175092,Result Declared,S12
+Jabalpur,13,Ashish Dubey,Dinesh Yadav,486674,Result Declared,S12
+Khajuraho,8,Vishnu Datt Sharma (V.D.Sharma),Kamlesh Kumar,541229,Result Declared,S12
+Khandwa,28,Gyaneshwar Patil,Narendra Patel,269971,Result Declared,S12
+Khargone,27,Gajendra Singh Patel,Porlal Batha Kharte,135018,Result Declared,S12
+Mandla,14,Faggan Singh Kulaste,Omkar Singh Markam,103846,Result Declared,S12
+Mandsour,23,Sudheer Gupta,Dilip Singh Gurjar,500655,Result Declared,S12
+Morena,1,Shivmangal Singh Tomar,Neetu Satyapal Singh Sikarwar,52530,Result Declared,S12
+Rajgarh,20,Rodmal Nagar,Digvijaya Singh,146089,Result Declared,S12
+Alappuzha,15,K. C Venugopal,A. M Ariff,63513,Result Declared,S11
+Alathur,9,K.Radhakrishnan,Ramya Haridas,20111,Result Declared,S11
+Attingal,19,Adv Adoor Prakash,V Joy,684,Result Declared,S11
+Chalakudy,11,Benny Behanan,Prof C Raveendranath,63754,Result Declared,S11
+Ernakulam,12,Hibi Eden,K. J. Shine Teacher,250385,Result Declared,S11
+Idukki,13,Adv. Dean Kuriakose,Adv. Joice George,133727,Result Declared,S11
+Kannur,2,K. Sudhakaran,M.V. Jayarajan,108982,Result Declared,S11
+Kasaragod,1,Rajmohan Unnithan,M.V Balakrishnan Master,100649,Result Declared,S11
+Kollam,18,N K Premachandran,M Mukesh,150302,Result Declared,S11
+Kottayam,14,Adv K Francis George,Thomas Chazhikadan,87266,Result Declared,S11
+Kozhikode,5,M. K. Raghavan,Elamaram Kareem,146176,Result Declared,S11
+Malappuram,6,E.T. Mohammed Basheer,V. Vaseef,300118,Result Declared,S11
+Mavelikkara,16,Kodikunnil Suresh,Adv Arun Kumar C A,10868,Result Declared,S11
+Palakkad,8,V K Sreekandan,A Vijayaraghavan,75283,Result Declared,S11
+Pathanamthitta,17,Anto Antony,Dr.T.M.Thomas Issac,66119,Result Declared,S11
+Ponnani,7,Dr. M.P Abdussamad Samadani,K.S Hamza,235760,Result Declared,S11
+Thiruvananthapuram,20,Shashi Tharoor,Rajeev Chandrasekhar,16077,Result Declared,S11
+Thrissur,10,Suresh Gopi,Adv V S Sunilkumar,74686,Result Declared,S11
+Vadakara,3,Shafi Parambil,K K Shailaja Teacher,114506,Result Declared,S11
+Wayanad,4,Rahul Gandhi,Annie Raja,364422,Result Declared,S11
+Chatra,4,Kali Charan Singh,Krishna Nand Tripathi,220959,Result Declared,S27
+Dhanbad,7,Dulu Mahato,Anupama Singh,331583,Result Declared,S27
+Dumka,2,Nalin Soren,Sita Murmu,22527,Result Declared,S27
+Giridih,6,Chandra Prakash Choudhary,Mathura Prasad Mahato,80880,Result Declared,S27
+Godda,3,Nishikant Dubey,Pradeep Yadav,101813,Result Declared,S27
+Hazaribagh,14,Manish Jaiswal,Jai Prakash Bhai Patel,276686,Result Declared,S27
+Jamshedpur,9,Bidyut Baran Mahato,Samir Kumar Mohanty,259782,Result Declared,S27
+Khunti,11,Kali Charan Munda,Arjun Munda,149675,Result Declared,S27
+Kodarma,5,Annpurna Devi,Vinod Kumar Singh,377014,Result Declared,S27
+Lohardaga,12,Sukhdeo Bhagat,Samir Oraon,139138,Result Declared,S27
+Palamau,13,Vishnu Dayal Ram,Mamta Bhuiyan,288807,Result Declared,S27
+Rajmahal,1,Vijay Kumar Hansdak,Tala Marandi,178264,Result Declared,S27
+Ranchi,8,Sanjay Seth,Yashaswini Sahay,120512,Result Declared,S27
+Singhbhum,10,Joba Majhi,Geeta Kora,168402,Result Declared,S27
+Bagalkot,3,Gaddigoudar. Parvatagouda. Chandanagouda.,Samyukta Shivanand Patil,68399,Result Declared,S10
+Bangalore Central,25,P C Mohan,Mansoor Ali Khan,32707,Result Declared,S10
+Bangalore North,24,Shobha Karandlaje,Professor M.V Rajeev Gowda,259476,Result Declared,S10
+Bangalore Rural,23,Dr C N Manjunath,D K Suresh,269647,Result Declared,S10
+Bangalore South,26,Tejasvi Surya,Sowmya Reddy,277083,Result Declared,S10
+Belgaum,2,Jagadish Shettar,Mrinal R Hebbalkar,178437,Result Declared,S10
+Bellary,9,E. Tukaram,B. Sreeramulu,98992,Result Declared,S10
+Bidar,7,Sagar Eshwar Khandre,Bhagwanth Khuba,128875,Result Declared,S10
+Bijapur,4,Ramesh Jigajinagi,Raju Alagur.,77229,Result Declared,S10
+Chamarajanagar,22,Sunil Bose,Balaraj.S,188706,Result Declared,S10
+Chikkballapur,27,Dr.K.Sudhakar,M.S. Raksha Ramaiah,163460,Result Declared,S10
+Chikkodi,1,Priyanka Satish Jarkiholi,Annasaheb Shankar Jolle,90834,Result Declared,S10
+Chitradurga,18,Govind Makthappa Karjol,B.N.Chandrappa,48121,Result Declared,S10
+Dakshina Kannada,17,Captain Brijesh Chowta,Padmaraj.R.Poojary,149208,Result Declared,S10
+Davanagere,13,Dr. Prabha Mallikarjun,Gayithri Siddeshwara,26094,Result Declared,S10
+Dharwad,11,Pralhad Joshi,Vinod Asooti,97324,Result Declared,S10
+Gulbarga,5,Radhakrishna,Dr. Umesh G Jadhav,27205,Result Declared,S10
+Hassan,16,Shreyas. M. Patel,Prajwal Revanna,42649,Result Declared,S10
+Haveri,10,Basavaraj Bommai,Anandswamy Gaddadevarmath,43513,Result Declared,S10
+Kolar,28,M. Mallesh Babu,K V Gowtham,71388,Result Declared,S10
+Ahmedabad East,7,Hasmukhbhai Patel (H.S.Patel),Himmatsinh Prahladsinh Patel,461755,Result Declared,S06
+Ahmedabad West,8,Dineshbhai Makwana (Advocate),Bharat Yogendra Makwana,286437,Result Declared,S06
+Amreli,14,Bharatbhai Manubhai Sutariya,Jenny Thummar,321068,Result Declared,S06
+Anand,16,Mitesh Patel (Bakabhai),Amit Chavda,89939,Result Declared,S06
+Banaskantha,2,Geniben Nagaji Thakor,Dr. Rekhaben Hiteshbhai Chaudhari,30406,Result Declared,S06
+Bardoli,23,Parbhubhai Nagarbhai Vasava,Chaudhary Siddharth Amarsinh,230253,Result Declared,S06
+Bharuch,22,Mansukhbhai Dhanjibhai Vasava,Chaitarbhai Damjibhai Vasava,85696,Result Declared,S06
+Bhavnagar,15,Nimuben Jayantibhai Bambhaniya (Nimuben Bambhaniya),Umeshbhai Naranbhai Makwana,455289,Result Declared,S06
+Chhota Udaipur,21,Jashubhai Bhilubhai Rathva,Sukhrambhai Hariyabhai Rathwa,398777,Result Declared,S06
+Dahod,19,Jaswantsinh Sumanbhai Bhabhor,Dr. Prabhaben Kishorsinh Taviyad,333677,Result Declared,S06
+Gandhinagar,6,Amit Shah,Sonal Ramanbhai Patel,744716,Result Declared,S06
+Jamnagar,12,Poonamben Hematbhai Maadam,Advocate J. P. Maraviya,238008,Result Declared,S06
+Junagadh,13,Chudasama Rajeshbhai Naranbhai,Jotva Hirabhai Arjanbhai,135494,Result Declared,S06
+Kachchh,1,Chavda Vinod Lakhamshi,Nitesh Parbatbhai Lalan (Matang),268782,Result Declared,S06
+Kheda,17,Devusinh Chauhan,Kalusinh Dabhi,357758,Result Declared,S06
+Mahesana,4,Haribhai Patel,Ramji Thakor,328046,Result Declared,S06
+Navsari,25,C R Patil,Naishadhbhai Bhupatbhai  Desai,773551,Result Declared,S06
+Panchmahal,18,Rajpalsinh Mahendrasinh Jadav,Gulabsinh Somsinh Chauhan,509342,Result Declared,S06
+Patan,3,Dabhi Bharatsinhji Shankarji,Chandanji Talaji Thakor,31876,Result Declared,S06
+Porbandar,11,Dr. Mansukh Mandaviya,Lalit Vasoya,383360,Result Declared,S06
+Rajkot,10,Parshottambhai Rupala,Dhanani Paresh,484260,Result Declared,S06
+Sabarkantha,5,Shobhanaben Mahendrasinh Baraiya,Chaudhari Tushar Amarsinh,155682,Result Declared,S06
+Surat,24,Mukeshkumar Chandrakaant Dalal,***No Oppoenent***,,Uncontested,S06
+Surendranagar,9,Chandubhai Chhaganbhai Shihora,Rutvikbhai Lavjibhai Makwana,261617,Result Declared,S06
+Vadodara,20,Dr. Hemang Joshi,Padhiyar  Jashpalsinh Mahendrasinh (Bapu),582126,Result Declared,S06
+Valsad,26,Dhaval Laxmanbhai Patel,Anantkumar Hasmukhbhai Patel,210704,Result Declared,S06
+Pali,15,P. P. Chaudhary,Sangeeta Beniwal,245351,Result Declared,S20
+Rajsamand,22,Mahima Kumari Mewar,Dr. Damodar Gurjar,392223,Result Declared,S20
+Sikar,5,Amraram,Sumedhanand Saraswati,72896,Result Declared,S20
+Tonk-Sawai Madhopur,12,Harish Chandra Meena,Sukhbir Singh Jaunapuria,64949,Result Declared,S20
+Udaipur,19,Manna Lal Rawat,Tarachand Meena,261608,Result Declared,S20
+Madha,43,Mohite-Patil Dhairyasheel Rajsinh,Ranjeetsingh Hindurao Naik Nimbalkar,120837,Result Declared,S13
+Maval,33,Shrirang Appa Chandu Barne,Sanjog Bhiku Waghere Patil,96615,Result Declared,S13
+Mumbai North,26,Piyush Goyal,Bhushan Patil,357608,Result Declared,S13
+Mumbai North Central,29,Gaikwad Varsha Eknath,Adv Ujwal Nikam,16514,Result Declared,S13
+Mumbai North East,28,Sanjay Dina Patil,Mihir Chandrakant Kotecha,29861,Result Declared,S13
+Mumbai North West,27,Ravindra Dattaram Waikar,Amol Gajanan Kirtikar,48,Result Declared,S13
+Mumbai South,31,Arvind Ganpat Sawant,Yamini Yashwant Jadhav,52673,Result Declared,S13
+Mumbai South Central,30,Anil Yeshwant Desai,Rahul Ramesh Shewale,53384,Result Declared,S13
+Nagpur,10,Nitin Jairam Gadkari,Vikas Thakre,137603,Result Declared,S13
+Nanded,16,Chavan Vasantrao Balwantrao,Chikhalikar Prataprao Govindrao,59442,Result Declared,S13
+Nandurbar,1,Adv Gowaal Kagada Padavi,Dr Heena Vijaykumar Gavit,159120,Result Declared,S13
+Nashik,21,Rajabhau (Parag) Prakash Waje,Godse Hemant Tukaram,162001,Result Declared,S13
+Osmanabad,40,Omprakash Bhupalsinh Alias Pavan Rajenimbalkar,Archana Ranajagjitsinh Patil,329846,Result Declared,S13
+Palghar,22,Dr. Hemant Vishnu Savara,Bharti Bharat Kamdi,183306,Result Declared,S13
+Parbhani,17,Jadhav Sanjay ( Bandu ) Haribhau,Jankar Mahadev Jagannath,134061,Result Declared,S13
+Pune,34,Murlidhar Mohol,Dhangekar Ravindra Hemraj,123038,Result Declared,S13
+Raigad,32,Tatkare Sunil Dattatrey,Anant Geete,82784,Result Declared,S13
+Ramtek,9,Shyamkumar (Babalu) Daulat Barve,Raju Deonath Parve,76768,Result Declared,S13
+Ratnagiri- Sindhudurg,46,Narayan Tatu Rane,Vinayak Bhaurao Raut,47858,Result Declared,S13
+Raver,4,Khadse Raksha Nikhil,Shriram Dayaram Patil,272183,Result Declared,S13
+Hooghly,28,Rachna Banerjee,Locket Chatterjee,76853,Result Declared,S25
+Howrah,25,Prasun Banerjee,Dr Rathin Chakravarty,169442,Result Declared,S25
+Jadavpur,22,Sayani Ghosh,Dr. Anirban Ganguly,258201,Result Declared,S25
+Jalpaiguri,3,Dr Jayanta Kumar Roy,Nirmal Chandra Roy,86693,Result Declared,S25
+Jangipur,9,Khalilur Rahaman,Murtoja Hossain Bokul,116637,Result Declared,S25
+Jhargram,33,Kalipada Saren (Kherwal),Dr. Pranat Tudu,174048,Result Declared,S25
+Joynagar,19,Pratima Mondal,Ashok Kandary,470219,Result Declared,S25
+Kanthi,31,Adhikari Soumendu,Uttam Barik Son Of Late Birendra Barik,47764,Result Declared,S25
+Kolkata Dakshin,23,Mala Roy,Debasree Chaudhuri,187231,Result Declared,S25
+Kolkata Uttar,24,Bandyopadhyay Sudip,Tapas Roy,92560,Result Declared,S25
+Krishnanagar,12,Mahua Moitra,Amrita Roy,56705,Result Declared,S25
+Maldaha Dakshin,8,Isha Khan Choudhury,Sreerupa Mitra Chaudhury (Nirbhaya Didi),128368,Result Declared,S25
+Maldaha Uttar,7,Khagen Murmu,Prasun Banerjee,77708,Result Declared,S25
+Mathurapur,20,Bapi Haldar,Ashok Purkait,201057,Result Declared,S25
+Medinipur,34,June Maliah,Agnimitra Paul,27191,Result Declared,S25
+Murshidabad,11,Abu Taher Khan,Md Salim,164215,Result Declared,S25
+Purulia,35,Jyotirmay Singh Mahato,Shantiram Mahato,17079,Result Declared,S25
+Raiganj,5,Kartick Chandra Paul,Kalyani Krishna,68197,Result Declared,S25
+Ranaghat,13,Jagannath Sarkar,Mukut Mani Adhikari,186899,Result Declared,S25
+Srerampur,27,Kalyan Banerjee,Kabir Shankar Bose,174830,Result Declared,S25
+Sundargarh,2,Jual Oram,Dilip Kumar Tirkey,138808,Result Declared,S18
+Arunachal East,2,Tapir Gao,Bosiram Siram,30421,Result Declared,S02
+Arunachal West,1,Kiren Rijiju,Nabam Tuki,100738,Result Declared,S02
+Srikakulam,2,Kinjarapu Rammohan Naidu,Tilak Perada,327901,Result Declared,S01
+Thirupathi,23,Gurumoorthy Maddila,Vara Prasad Rao Velagapalli,14569,Result Declared,S01
+Vijayawada,12,Kesineni Sivanath (Chinni),Kesineni Srinivas  (Nani),282085,Result Declared,S01
+Visakhapatnam,4,Sribharat Mathukumili,Jhansi Lakshmi. Botcha.,504247,Result Declared,S01
+Vizianagaram,3,Appalanaidu Kalisetti,Bellana Chandrasekhar,249351,Result Declared,S01
+Ahmednagar,37,Nilesh Dnyandev Lanke,Dr. Sujay Radhakrishna Vikhepatil,28929,Result Declared,S13
+Akola,6,Anup Sanjay Dhotre,Abhay Kashinath Patil,40626,Result Declared,S13
+Amravati,7,Balwant Baswant Wankhade,Navneet Ravi Rana,19731,Result Declared,S13
+Aurangabad,19,Bhumare Sandipanrao Asaram,Imtiaz Jaleel Syed,134650,Result Declared,S13
+Baramati,35,Supriya Sule,Sunetra Ajitdada Pawar,158333,Result Declared,S13
+Beed,39,Bajrang Manohar Sonwane,Pankaja Gopinathrao Munde,6553,Result Declared,S13
+Bhandara Gondiya,11,Dr. Prashant Yadaorao Padole,Sunil Baburao Mendhe,37380,Result Declared,S13
+Bhiwandi,23,Balya Mama - Suresh Gopinath Mhatre,Kapil Moreshwar Patil,66121,Result Declared,S13
+Buldhana,5,Jadhav Prataprao Ganpatrao,Narendra Dagdu Khedekar,29479,Result Declared,S13
+Chandrapur,13,Dhanorkar Pratibha Suresh Alias Balubhau,Mungantiwar Sudhir Sacchidanand,260406,Result Declared,S13
+Dhule,2,Bachhav Shobha Dinesh,Bhamre Subhash Ramrao,3831,Result Declared,S13
+Dindori,20,Bhaskar Murlidhar Bhagare,Dr. Bharati Pravin Pawar,113199,Result Declared,S13
+Gadchiroli - Chimur,12,Dr. Kirsan Namdeo,Ashok  Mahadeorao Nete,141696,Result Declared,S13
+Hatkanangale,48,Dhairyasheel Sambhajirao Mane,Satyajeet Babasaheb Patil (Aaba) Sarudkar,13426,Result Declared,S13
+Hingoli,15,Aashtikar Patil Nagesh Bapurao,Baburao Kadam Kohalikar,108602,Result Declared,S13
+Jalgaon,3,Smita Uday Wagh,Karan Balasaheb Patil - Pawar,251594,Result Declared,S13
+Jalna,18,Kalyan Vaijinathrao Kale,Danve Raosaheb Dadarao,109958,Result Declared,S13
+Kalyan,24,Dr Shrikant Eknath Shinde,Vaishali Darekar - Rane,209144,Result Declared,S13
+Kolhapur,47,Chhatrapati Shahu Shahaji,Sanjay Sadashivrao Mandlik,154964,Result Declared,S13
+Latur,41,Dr. Kalge Shivaji Bandappa,Sudhakar Tukaram Shrangare,61881,Result Declared,S13
+Bulandshahr,14,Dr Bhola Singh,Shivram,275134,Result Declared,S24
+Chandauli,76,Birendra Singh,Dr. Mahendra Nath  Pandey,21565,Result Declared,S24
+Deoria,66,Shashank Mani,Akhilesh Pratap Singh,34842,Result Declared,S24
+Dhaurahra,29,Anand Bhadauriya,Rekha Verma,4449,Result Declared,S24
+Domariyaganj,60,Jagdambika Pal,Bhishma Shankar Alias Kushal Tiwari,42728,Result Declared,S24
+Etah,22,Devesh Shakya,Rajveer Singh (Raju Bhaiya),28052,Result Declared,S24
+Etawah,41,Jitendra Kumar Dohare,Dr Ram Shankar Katheria,58419,Result Declared,S24
+Faizabad,54,Awadhesh Prasad,Lallu Singh,54567,Result Declared,S24
+Farrukhabad,40,Mukesh Rajput,Dr. Naval Kishor Shakya,2678,Result Declared,S24
+Fatehpur,49,Naresh Chandra Uttam Patel,Niranjan Jyoti,33199,Result Declared,S24
+Fatehpur Sikri,19,Rajkumar Chahar,Ramnath Singh Sikarwar,43405,Result Declared,S24
+Firozabad,20,Akshaya Yadav,Vishwadeep Singh,89312,Result Declared,S24
+Gautam Buddha Nagar,13,Dr. Mahesh Sharma,Dr. Mahendra Singh Nagar,559472,Result Declared,S24
+Ghaziabad,12,Atul Garg,Dolly Sharma,336965,Result Declared,S24
+Ghazipur,75,Afzal Ansari,Pars Nath Rai,124861,Result Declared,S24
+Ghosi,70,Rajeev Rai,Dr. Arvind Rajbhar,162943,Result Declared,S24
+Gonda,59,Kirtivardhan Singh,Shreya Verma,46224,Result Declared,S24
+Gorakhpur,64,Ravindra Shukla Alias Ravi Kishan,Kajal Nishad,103526,Result Declared,S24
+Hamirpur,47,Ajendra Singh Lodhi,Kunwar Pushpendra Singh Chandel,2629,Result Declared,S24
+Hardoi,31,Jai Prakash,Usha Verma,27856,Result Declared,S24
+Ambala,1,Varun Chaudhry,Banto Kataria,49036,Result Declared,S07
+Bhiwani-Mahendragarh,8,Dharambir Singh,Rao Dan Singh,41510,Result Declared,S07
+Faridabad,10,Krishan Pal,Mahender Pratap Singh,172914,Result Declared,S07
+Gurgaon,9,Rao Inderjit Singh,Raj Babbar,75079,Result Declared,S07
+Hisar,4,Jai Parkash (J P) S/O Harikesh,Ranjit Singh,63381,Result Declared,S07
+Karnal,5,Manohar Lal,Divyanshu Budhiraja,232577,Result Declared,S07
+Kurukshetra,2,Naveen Jindal,Dr Sushil Gupta,29021,Result Declared,S07
+Rohtak,7,Deepender Singh Hooda,Dr. Arvind Kumar Sharma,345298,Result Declared,S07
+Sirsa,3,Selja,Ashok Tanwar,268497,Result Declared,S07
+Sonipat,6,Satpal Brahamchari,Mohan Lal Badoli,21816,Result Declared,S07
+Aska,19,Anita Subhadarshini,Ranjita Sahu,99974,Result Declared,S18
+Balasore,6,Pratap Chandra Sarangi,Lekhasri Samantsinghar,147156,Result Declared,S18
+Bargarh,1,Pradeep Purohit,Parinita Mishra,251667,Result Declared,S18
+Berhampur,20,Dr. Pradeep Kumar Panigrahy,Bhrugu Baxipatra,165476,Result Declared,S18
+Bhadrak,7,Avimanyu Sethi,Manjulata Mandal,91544,Result Declared,S18
+Bhubaneswar,18,Aparajita Sarangi,Manmath Kumar Routray,35152,Result Declared,S18
+Bolangir,10,Sangeeta Kumari Singh Deo,Surendra Singh Bhoi,132664,Result Declared,S18
+Cuttack,14,Bhartruhari Mahtab,Santrupt Misra,57077,Result Declared,S18
+Dhenkanal,9,Rudra Narayan Pany,Abinash Samal,76567,Result Declared,S18
+Jagatsinghpur,16,Bibhu Prasad Tarai,Dr. Rajashree Mallick,40696,Result Declared,S18
+Jajpur,8,Rabindra Narayan Behera,Sarmistha Sethi,1587,Result Declared,S18
+Kalahandi,11,Malvika Devi,Lambodar Nial,133813,Result Declared,S18
+Kandhamal,13,Sukanta Kumar Panigrahi,Achyutananda Samanta,21371,Result Declared,S18
+Kendrapara,15,Baijayant Panda,Anshuman Mohanty,66536,Result Declared,S18
+Keonjhar,4,Ananta Nayak,Dhanurjaya Sidu,97042,Result Declared,S18
+Koraput,21,Saptagiri Sankar Ulaka,Kausalya Hikaka,147744,Result Declared,S18
+Mayurbhanj,5,Naba Charan Majhi,Sudam Marndi,219334,Result Declared,S18
+Nabarangpur,12,Balabhadra Majhi,Pradeep Kumar Majhi,87536,Result Declared,S18
+Puri,17,Sambit Patra,Arup Mohan Patnaik,104709,Result Declared,S18
+Sambalpur,3,Dharmendra Pradhan,Pranab Prakash Das,119836,Result Declared,S18
+Nagaland,1,S Supongmeren Jamir,Dr Chumben Murry,50984,Result Declared,S17
+Sikkim,1,Indra Hang Subba,Bharat Basnett,80830,Result Declared,S21
+Ratlam,24,Anita Nagarsingh Chouhan,Kantilal Bhuria,207232,Result Declared,S12
+Rewa,10,Janardan Mishra,Neelam Abhay Mishra,193374,Result Declared,S12
+Sagar,5,Dr. Lata Wankhede,Chandra Bhusan Singh Bundela 'Guddu Raja',471222,Result Declared,S12
+Satna,9,Ganesh Singh,Dabbu Siddharth Sukhlal Kushwaha,84949,Result Declared,S12
+Shahdol,12,Smt. Himadri Singh,Phunde Lal Singh Marko,397340,Result Declared,S12
+Sidhi,11,Dr. Rajesh Mishra,Kamleshwar Indrajit Kumar,206416,Result Declared,S12
+Tikamgarh,6,Dr. Virendra Kumar,Khuman Urf Pankaj Ahirwar,403312,Result Declared,S12
+Ujjain,22,Anil Firojiya,Mahesh Parmar,375860,Result Declared,S12
+Vidisha,18,Shivraj Singh Chouhan,Pratapbhanu Sharma,821408,Result Declared,S12
+Mohanlalganj,34,R.K. Chaudhary,Kaushal Kishore,70292,Result Declared,S24
+Moradabad,6,Ruchi Vira,Kunwar Sarvesh Kumar,105762,Result Declared,S24
+Muzaffarnagar,3,Harendra Singh Malik,Sanjeev Kumar Balyan,24672,Result Declared,S24
+Nagina,5,Chandrashekhar,Om Kumar,151473,Result Declared,S24
+Phulpur,51,Praveen Patel,Amar Nath Singh Maurya,4332,Result Declared,S24
+Pilibhit,26,Jitin Prasada,Bhagwat Saran Gangwar,164935,Result Declared,S24
+Pratapgarh,39,Shiv Pal Singh Patel (Dr. S P Singh),Sangam Lal Gupta,66206,Result Declared,S24
+Rae Bareli,36,Rahul Gandhi,Dinesh Pratap Singh,390030,Result Declared,S24
+Rampur,7,Mohibbullah,Ghanshyam Singh Lodhi,87434,Result Declared,S24
+Robertsganj,80,Chhotelal,Rinki Singh,129234,Result Declared,S24
+Saharanpur,1,Imran Masood,Raghav Lakhanpal,64542,Result Declared,S24
+Salempur,71,Ramashankar Rajbhar,Ravindar Kushawaha,3573,Result Declared,S24
+Sambhal,8,Zia Ur Rehman,Parmeshwar Lal Saini,121494,Result Declared,S24
+Sant Kabir Nagar,62,Laxmikant Pappu Nishad,Pravin Kumar Nishad,92170,Result Declared,S24
+Shahjahanpur,27,Arun Kumar Sagar,Jyotsna Gond,55379,Result Declared,S24
+Shrawasti,58,Ram Shiromani Verma,Saket Misra,76673,Result Declared,S24
+Sitapur,30,Rakesh Rathor,Rajesh Verma,89641,Result Declared,S24
+Sultanpur,38,Rambhual Nishad,Maneka Sanjay Gandhi,43174,Result Declared,S24
+Unnao,33,Swami Sachchidanand Hari Sakshi,Annu Tandon,35818,Result Declared,S24
+Varanasi,77,Narendra Modi,Ajay Rai,152513,Result Declared,S24
+Shillong,1,Dr. Ricky Andrew J. Syngkon,Vincent H. Pala,371910,Result Declared,S15
+Tura,2,Saleng A Sangma,Agatha K Sangma,155241,Result Declared,S15
+Nilgiris,19,Raja A,Dr Murugan L,240585,Result Declared,S22
+Perambalur,25,Arun Nehru,Chandramohan N D,389107,Result Declared,S22
+Pollachi,21,Eswarasamy K,Karthikeyan A,252042,Result Declared,S22
+Ramanathapuram,35,Navaskani K,Panneerselvam O S/O Ottakarathevar,166782,Result Declared,S22
+Salem,15,Selvaganapathi T M,Vignesh P,70357,Result Declared,S22
+Sivaganga,31,Karti P Chidambaram,Xavierdass A,205664,Result Declared,S22
+Sriperumbudur,5,T R Baalu,G Premkumar,487029,Result Declared,S22
+Tenkasi,37,Dr Rani Sri Kumar,Dr K Krishnasamy,196199,Result Declared,S22
+Thanjavur,30,Murasoli S,Sivanesan P,319583,Result Declared,S22
+Theni,33,Thanga Tamilselvan,Ttv Dhinakaran,278825,Result Declared,S22
+Thoothukkudi,36,Kanimozhi Karunanidhi,Sivasamy Velumani R,392738,Result Declared,S22
+Tiruchirappalli,24,Durai Vaiko,Karuppaiah. P,313094,Result Declared,S22
+Tirunelveli,38,Robert Bruce C,Nainar Nagenthran,165620,Result Declared,S22
+Tiruppur,18,"Subbarayan, K.","Arunachalam, P.",125928,Result Declared,S22
+Tiruvallur,1,Sasikanth Senthil,"Balaganapathy, V. Pon",572155,Result Declared,S22
+Tiruvannamalai,11,"Annadurai, C.N.",Kaliyaperumal M,233931,Result Declared,S22
+Vellore,8,Dm Kathir Anand,Ac Shanmugam,215702,Result Declared,S22
+Viluppuram,13,Ravikumar. D,Bhagyaraj. J,70703,Result Declared,S22
+Virudhunagar,34,Manickam Tagore B,Vijayaprabhakaran V,4379,Result Declared,S22
+Ladakh,1,Mohmad Haneefa,Tsering Namgyal,27862,Result Declared,U09
+Dadar & Nagar Haveli,2,Delkar Kalaben Mohanbhai,Ajit Ramjibhai Mahala,57584,Result Declared,U03
+Daman & Diu,1,Patel Umeshbhai Babubhai,Lalubhai Babubhai Patel,6225,Result Declared,U03
+Araria,9,Pradeep Kumar Singh,Shahnawaz,20094,Result Declared,S04
+Arrah,32,Sudama Prasad,R. K. Singh,59808,Result Declared,S04
+Aurangabad,37,Abhay Kumar Sinha,Sushil Kumar Singh,79111,Result Declared,S04
+Banka,27,Giridhari Yadav,Jai Prakash Narayan Yadav,103844,Result Declared,S04
+Begusarai,24,Giriraj Singh,Abdhesh Kumar Roy,81480,Result Declared,S04
+Bhagalpur,26,Ajay Kumar Mandal,Ajeet Sharma,104868,Result Declared,S04
+Buxar,33,Sudhakar Singh,Mithilesh Tiwari,30091,Result Declared,S04
+Darbhanga,14,Gopal Jee Thakur,Lalit Kumar Yadav,178156,Result Declared,S04
+Gaya,38,Jitan Ram Manjhi,Kumar Sarvjeet,101812,Result Declared,S04
+Gopalganj,17,Dr. Alok Kumar Suman,Prem Nath Chanchal Alias Chanchal Paswan,127180,Result Declared,S04
+Hajipur,21,Chirag Paswan,Shiv Chandra Ram,170105,Result Declared,S04
+Jahanabad,36,Surendra Prasad Yadav,Chandeshwar Prasad,142591,Result Declared,S04
+Jamui,40,Arun Bharti,Archana Kumari,112482,Result Declared,S04
+Jhanjharpur,7,Ramprit Mandal,Suman Kumar Mahaseth,184169,Result Declared,S04
+Karakat,35,Raja Ram Singh,Pawan Singh,105858,Result Declared,S04
+Katihar,11,Tariq Anwar,Dulal Chandra Goswami,49863,Result Declared,S04
+Khagaria,25,Rajesh Verma,Sanjay Kumar,161131,Result Declared,S04
+Kishanganj,10,Mohammad Jawed,Mujahid Alam,59692,Result Declared,S04
+Madhepura,13,Dinesh Chandra Yadav,Da Kumar Chandradeep,174534,Result Declared,S04
+Madhubani,6,Ashok Kumar Yadav,Md Ali Ashraf Fatmi,151945,Result Declared,S04
+Almora,3,Ajay Tamta,Pradeep Tamta,234097,Result Declared,S28
+Garhwal,2,Anil Baluni,Ganesh Godiyal,163503,Result Declared,S28
+Haridwar,5,Trivendra Singh Rawat,Virendra Rawat,164056,Result Declared,S28
+Nainital-Udhamsingh Nagar,4,Ajay Bhatt,Prakash Joshi,334548,Result Declared,S28
+Tehri Garhwal,1,Mala Rajya Lakshmi Shah,Jot Singh Gunsola,272493,Result Declared,S28
+Barpeta,3,Phani Bhusan Choudhury,Deep Bayan,222351,Result Declared,S03
+Darrang-Udalguri,4,Dilip Saikia,Madhab Rajbangshi,329012,Result Declared,S03
+Dhubri,2,Rakibul Hussain,Mohammed Badruddin Ajmal,1012476,Result Declared,S03
+Dibrugarh,13,Sarbananda Sonowal,Lurinjyoti Gogoi,279321,Result Declared,S03
+Diphu,6,Amarsing Tisso,J. I. Kathar,147603,Result Declared,S03
+Guwahati,5,Bijuli Kalita Medhi,Mira Borthakur Goswami,251090,Result Declared,S03
+Jorhat,14,Gaurav Gogoi,Topon Kumar Gogoi,144393,Result Declared,S03
+Karimganj,7,Kripanath Mallah,Hafiz Rashid Ahmed Choudhury,18360,Result Declared,S03
+Kaziranga,10,Kamakhya Prasad Tasa,Roselina Tirkey,248947,Result Declared,S03
+Kokrajhar,1,Joyanta Basumatary,Kampa Borgoyari,51583,Result Declared,S03
+Lakhimpur,12,Pradan Baruah,Uday Shankar Hazarika,201257,Result Declared,S03
+Nagaon,9,Pradyut Bordoloi,Suresh Borah,212231,Result Declared,S03
+Silchar,8,Parimal Suklabaidya,Surya Kanta Sarkar,264311,Result Declared,S03
+Sonitpur,11,Ranjit Dutta,Premlal Ganju,361408,Result Declared,S03
+Amritsar,2,Gurjeet Singh Aujla,Kuldeep Singh Dhaliwal,40301,Result Declared,S19
+Anandpur Sahib,6,Malvinder Singh Kang,Vijay Inder Singla,10846,Result Declared,S19
+Bathinda,11,Harsimrat Kaur Badal,Gurmeet Singh Khudian,49656,Result Declared,S19
+Faridkot,9,Sarabjeet Singh Khalsa,Karamjit Singh Anmol,70053,Result Declared,S19
+Fatehgarh Sahib,8,Amar Singh,Gurpreet Singh Gp,34202,Result Declared,S19
+Firozpur,10,Sher Singh Ghubaya,Jagdeep Singh Kaka Brar,3242,Result Declared,S19
+Gurdaspur,1,Sukhjinder Singh Randhawa,Dinesh Singh Babbu,82861,Result Declared,S19
+Hoshiarpur,5,Dr. Raj Kumar Chabbewal,Yamini Gomar,44111,Result Declared,S19
+Jalandhar,4,Charanjit Singh Channi,Sushil Kumar Rinku,175993,Result Declared,S19
+Khadoor Sahib,3,Amritpal Singh,Kulbir Singh Zira,197120,Result Declared,S19
+Ludhiana,7,Amrinder Singh Raja Warring,Ravneet Singh Bittu,20942,Result Declared,S19
+Patiala,13,Dr Dharamvira Gandhi,Dr Balbir Singh,14831,Result Declared,S19
+Sangrur,12,Gurmeet Singh Meet Hayer,Sukhpal Singh Khaira,172560,Result Declared,S19
+Anantnag-Rajouri,3,Mian Altaf Ahmad,Mehbooba Mufti,281794,Result Declared,U08
+Baramulla,1,Abdul Rashid Sheikh,Omar Abdullah,204142,Result Declared,U08
+Jammu,5,Jugal Kishore,Raman Bhalla,135498,Result Declared,U08
+Srinagar,2,Aga Syed Ruhullah Mehdi,Waheed Ur Rehman Para,188416,Result Declared,U08
+Udhampur,4,Dr Jitendra Singh,Ch Lal Singh,124373,Result Declared,U08
+North Goa,1,Shripad Yesso Naik,Ramakant Khalap,116015,Result Declared,S05
+South Goa,2,Captain Viriato Fernandes,Pallavi Shrinivas Dempo,13535,Result Declared,S05
+Sangli,44,Vishal (Dada) Prakashbapu Patil,Sanjay (Kaka) Patil,100053,Result Declared,S13
+Satara,45,Shrimant Chh Udayanraje Pratapsinhamaharaj Bhonsle,Shashikant Jayvantrao Shinde,32771,Result Declared,S13
+Shirdi,38,Bhausaheb Rajaram Wakchaure,Lokhande Sadashiv Kisan,50529,Result Declared,S13
+Shirur,36,Dr. Amol Ramsing Kolhe,Adhalrao Shivaji Dattatrey,140951,Result Declared,S13
+Solapur,42,Praniti Sushilkumar Shinde,Ram Vitthal Satpute,74197,Result Declared,S13
+Thane,25,Naresh Ganpat Mhaske,Rajan Baburao Vichare,217011,Result Declared,S13
+Wardha,8,Amar Sharadrao Kale,Ramdas Chandrabhan Tadas,81648,Result Declared,S13
+Yavatmal- Washim,14,Sanjay Uttamrao Deshmukh,Rajshritai Hemant Patil (Mahalle),94473,Result Declared,S13
+Chandni Chowk,1,Praveen Khandelwal,Jai Prakash Agarwal,89325,Result Declared,U05
+East Delhi,3,Harsh Malhotra,Kuldeep Kumar (Monu),93663,Result Declared,U05
+New Delhi,4,Bansuri Swaraj,Somnath Bharti,78370,Result Declared,U05
+North-East Delhi,2,Manoj Tiwari,Kanhaiya Kumar,138778,Result Declared,U05
+North-West Delhi,5,Yogender Chandoliya,Udit Raj,290849,Result Declared,U05
+South Delhi,7,Ramvir Singh Bidhuri,Sahi Ram,124333,Result Declared,U05
+West Delhi,6,Kamaljeet Sehrawat,Mahabal Mishra,199013,Result Declared,U05
